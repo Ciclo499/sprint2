@@ -1,0 +1,36 @@
+.buttonCliente {
+    background-color: midnightblue;
+    color: white;
+    font-size: 30px;
+    padding: 1.5%;
+    border: 0ch;
+    
+}
+.blockCliente {
+    background-color:midnightblue
+}
+
+img {
+    width: 20vw;
+    height: 20vh;
+}
+
+.img{
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.table1{
+
+    border:1px solid #000;
+    text-align: center;
+    position: relative;
+
+}
+
+.objetos {
+    margin-top: 15%;
+    font-size: 30px;
+}

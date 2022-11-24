@@ -1,0 +1,13 @@
+[
+    {
+        "nombre":"Sol de espuma",
+        "precio":50,
+        "stock": 19
+    },
+    {
+        "nombre":"Corazon juguete",
+        "precio":35,
+        "stock": 17
+    }
+
+]

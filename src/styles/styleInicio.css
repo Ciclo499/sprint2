@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    font-size: 25px;
+}
+.buttonInicio {
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+    border: 0px solid;
+    padding: 1.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
