@@ -9,3 +9,23 @@
 .blockAdmin {
     background-color: midnightblue;
 }
+
+.table1{
+
+    border:1px solid #000;
+    text-align: center;
+    position: relative;
+
+}
+
+.img1{
+
+    width: 50vw;
+    height: 50vh;
+
+}
+
+img {
+    width: 20vw;
+    height: 20vh;
+}
